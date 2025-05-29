@@ -1,53 +1,109 @@
 # Minecraft Server Bot with Web UI
 
-A simple Minecraft Java Edition bot with a web control interface.  
-Built with mineflayer, Express, and Socket.IO.
+A customizable Minecraft Java Edition bot with a built-in Web UI, powered by [Mineflayer](https://github.com/PrismarineJS/mineflayer).
 
-## Features
+---
 
-- Connect to any Minecraft Java server  
-- Set your bot's username  
-- Basic controls: move, jump, crouch  
-- Web UI for easy control via browser  
-- Live console logs in the web interface  
+## ✨ Features
 
-## Requirements
+- ✅ Connect to **any Java Minecraft server**
+- 👤 Custom bot username support
+- 🖱️ Web UI to control:
+  - Jump
+  - Crouch
+  - Move (basic)
+  - Use item
+- 🔄 Auto-equips the first inventory item
+- 🛡️ Totem support
+- 🧭 Logs activity to browser console
+- ⚠️ **Inventory display is placeholder-only** (work in progress)
 
-- Node.js v16 or higher  
+---
 
-## Installation
+## 🛠 Requirements
+
+- [Node.js](https://nodejs.org/) (v16+ recommended)
+- Git (optional if you download ZIP)
+- Web browser (Chrome/Firefox/etc.)
+
+---
+
+## 🚀 Installation
 
 ```bash
+# Clone this repository
 git clone https://github.com/Rog-createhi/Minecraftserverbot.git
 cd Minecraftserverbot
+
+# Install required packages
 npm install
-
-
-
-# Usage
-
-node server.js
-
-Open your browser at http://localhost:3000 and enter the server info and bot username to connect.
-
-Known Issues
-
-Inventory management is incomplete
-
-Some advanced features are missing
-
-Bot might disconnect on some servers
-
-
-Contributing
-
-Contributions are welcome! Open issues or submit pull requests.
-
-License
-
-MIT License
 
 
 ---
 
-Created by Rog
+▶️ Usage
+
+# Start the server and bot backend
+node server.js
+
+Then, open your browser and go to:
+
+http://localhost:3000
+
+From the Web UI, you can:
+
+1. Enter the bot username (any name).
+
+
+2. Enter a server IP (e.g., play.example.com).
+
+
+3. Enter the port (e.g., 25565).
+
+
+4. Choose a Minecraft version (e.g., 1.20.4).
+
+
+5. Click Connect.
+
+
+
+Once connected, you can control the bot via buttons on the page.
+
+
+---
+---
+
+⚙️ Current Limitations
+
+Inventory tab may show incorrect or missing items.
+
+No advanced pathfinding.
+
+Only basic movement.
+
+Respawn logic is not implemented.
+
+No SSL — this is local dev only (unless self-hosted securely).
+
+
+
+---
+
+💡 Tips
+
+Run in screen/tmux if hosting on a VPS.
+
+Use a VPS or port forwarding if you want others to access the web UI.
+
+Use firewall rules to restrict unauthorized web access.
+
+
+
+---
+
+📜 License
+
+MIT License © 2025 Rog-createhi
+
+funfact: this readme is by chatgpt (yes ik it may not be right)
