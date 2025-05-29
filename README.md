@@ -30,12 +30,11 @@ A customizable Minecraft Java Edition bot with a built-in Web UI, powered by [Mi
 
 ## 🚀 Installation
 
-```bash
 # Clone this repository
 git clone https://github.com/Rog-createhi/Minecraftserverbot.git
 cd Minecraftserverbot
 
-# Install required packages
+# Install required packages if your in the folder
 npm install
 
 
@@ -61,7 +60,7 @@ From the Web UI, you can:
 3. Enter the port (e.g., 25565).
 
 
-4. Choose a Minecraft version (e.g., 1.20.4).
+4.  drink coffee
 
 
 5. Click Connect.
