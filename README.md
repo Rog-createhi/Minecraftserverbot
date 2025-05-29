@@ -19,11 +19,11 @@ Built with mineflayer, Express, and Socket.IO.
 - Node.js v16 or higher
 
 ## Installation
-,,,,bash
+```bash
 git clone https://github.com/Rog-createhi/Minecraftserverbot.git
 cd Minecraftserverbot
 npm install
-,,,,endbash
+```bash
 ## Usage
 node server.js
 
