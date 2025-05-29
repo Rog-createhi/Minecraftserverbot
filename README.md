@@ -25,7 +25,7 @@ git clone https://github.com/Rog-createhi/Minecraftserverbot.git
 cd Minecraftserverbot
 npm install
 
-Usage
+## Usage
 
 node server.js
 
