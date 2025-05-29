@@ -20,7 +20,6 @@ Built with mineflayer, Express, and Socket.IO.
 
 ## Installation
 
-```bash
 git clone https://github.com/Rog-createhi/Minecraftserverbot.git
 cd Minecraftserverbot
 npm install
