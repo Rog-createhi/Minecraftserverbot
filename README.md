@@ -28,9 +28,9 @@ A customizable Minecraft Java Edition bot with a built-in Web UI, powered by [Mi
 
 ---
 
-## 🚀 Installation (one after another
+## 🚀 Installation (one after another)
 
-wgethttps://github.com/Rog-createhi/Minecraftserverbot/releases/download/1.0.0/MinecraftServerBot.zip
+wget https://github.com/Rog-createhi/Minecraftserverbot/releases/download/1.0.0/MinecraftServerBot.zip
 
 unzip MinecraftServerBot.zip
 
