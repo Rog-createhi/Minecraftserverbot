@@ -31,14 +31,10 @@ A customizable Minecraft Java Edition bot with a built-in Web UI, powered by [Mi
 ## 🚀 Installation
 
 # Clone this repository
-git clone https://github.com/Rog-createhi/Minecraftserverbot.git
-cd Minecraftserverbot cd Minecraftserverbot
-(yes ik you have to cd 2 times)
-
-# Install required packages if your in the folder
+git clone https://github.com/Rog-createhi/Minecraftserverbot/releases/download/1.0.0/MinecraftServerBot.zip
+unzip MinecraftServerBot.zip
+cd MinecraftServerBot
 npm install
-
-
 ---
 
 ▶️ Usage
