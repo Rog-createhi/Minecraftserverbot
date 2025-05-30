@@ -28,7 +28,7 @@ A customizable Minecraft Java Edition bot with a built-in Web UI, powered by [Mi
 
 ---
 
-## 🚀 Installation (one after another)
+## 🚀 Installation (one after another) (broken recommended to use the noob way)
 
 wget https://github.com/Rog-createhi/Minecraftserverbot/releases/download/1.0.0/MinecraftServerBot.zip
 
@@ -43,7 +43,7 @@ npm install
 ▶️ Usage
 
 # Start the server and bot backend
-node server.js
+node server.js (this is the problem I don't know how to solve it)
 
 Then, open your browser and go to:
 
