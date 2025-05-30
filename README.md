@@ -106,3 +106,4 @@ Use firewall rules to restrict unauthorized web access.
 MIT License © 2025 Rog-createhi
 
 funfact: this readme is by chatgpt (yes ik it may not be right)
+for noobs: https://replit.com/@rjki59166/MinecraftServerBot
