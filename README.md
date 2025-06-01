@@ -43,7 +43,7 @@ npm install
 ▶️ Usage
 
 # Start the server and bot backend
-node server.js (this is the problem I don't know how to solve it)
+node index.js (this is the problem I don't know how to solve it)
 
 Then, open your browser and go to:
 
